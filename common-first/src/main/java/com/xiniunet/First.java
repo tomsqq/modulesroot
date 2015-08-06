@@ -6,7 +6,7 @@ package com.xiniunet;
 public class First {
 
     public static String hello(){
-        return "firstsss";
+        return "firstsssBBB";
     }
     public void helloa(){
         System.out.println("hello");
